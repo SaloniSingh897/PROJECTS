@@ -1,11 +1,8 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Panic Attack -Dashboard
 
 
+A brief description of what this project does and who it's for:
 ## Problem Statement
 
 This dashboard has been designed to help healthcare professionals and researchers better understand the patterns and severity of panic attacks among individuals. By analyzing key variables such as age, gender, panic attack frequency, duration, trigger reasons, and physiological symptoms (e.g., heart rate, sweating, dizziness, chest pain, trembling, shortness of breath), the dashboard aims to identify common patterns and contributing factors.
